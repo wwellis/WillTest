@@ -1,4 +1,6 @@
 WillTest
 ========
 
-Seminar work from Class 2
+Seminar work from Class 2 
+
+Testing now. 
